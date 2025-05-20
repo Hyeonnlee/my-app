@@ -47,5 +47,5 @@ patches:        # base 이름 기준
       kind: Secret
       name: my-app-secrets
 images:
-  - name: amdp-registry.skala-ai.com/skala25a/sk000-my-app
+  - name: amdp-registry.skala-ai.com/skala25a/sk049-my-app
     newTag: 1.0.0   # 새로운 버전으로 변경
